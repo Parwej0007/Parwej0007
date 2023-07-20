@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parwej0007
-- 👀 I’m interested in Python Scripting and Data Analysis (Power BI, SQL)
-- 🌱 I’m currently learning (Python Advance, Azure Data Factory)
+- 👀 I’m Experienced Data Analysis over 3 years of working experience (Power BI, SQL, Python)
+- 🌱 I’m currently learning (Microsoft Azure, Azure Data Factory)
 - 💞️ 
 - 📫 Parwejalam270@gmail.com
 
